@@ -1,0 +1,15 @@
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+Z:\DIO\atividade\sistemaParaEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
